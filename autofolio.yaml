@@ -1,0 +1,14 @@
+title: "Autofolio - Web de Portafolio Dinámico [Linkedin/Github]"
+description: "Portafolio interactivo para desarrolladores con sincronización en vivo desde GitHub mediante archivos autofolio.yaml y visor modal de documentación."
+badge: "⭐ Proyecto Destacado"
+status: "Completado"
+tags:
+  - "React 19"
+  - "TypeScript"
+  - "Tailwind CSS"
+  - "Vite"
+  - "GitHub API"
+  - "Lucide React"
+images:
+publicUrl: "https://lucasferrenti.github.io/Autofolio/"
+

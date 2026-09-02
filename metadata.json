@@ -1,0 +1,8 @@
+{
+  "name": "DevFolio Auto",
+  "description": "Portafolio moderno y minimalista que sincroniza automáticamente proyectos públicos de GitHub con configuración markdown (.portfolio.md), biografía y resumen de LinkedIn, vista previa interactiva y sección de contacto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
