@@ -1,7 +1,7 @@
 import { PortfolioConfigOverride } from '../types';
 
 export const githubUsername = 'LucasFerrenti';
-export const linkedinUsername = 'ferrenti-lucas';
+export const linkedinUsername = 'lferrenti';
 
 export const configOverride: PortfolioConfigOverride = {
   profile: {
